@@ -258,7 +258,7 @@ class TestLearningsTriggers:
         ))
         assert has_sync, (
             "Automatic sync to learnings repo not documented in LEARNINGS.md. "
-            "Must document: capture auto-syncs to git repo (qwwiwi/learnings)."
+            "Must document: capture auto-syncs to git repo (izmukovvladimir-cyber/learnings)."
         )
 
     def test_review_reminder_threshold(self) -> None:
