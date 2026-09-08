@@ -112,7 +112,7 @@ Tests use **mocks** for external services (Telegram API, Groq, OpenViking, Claud
 
 ## Related Repositories
 
-- [public-architecture-claude-code](https://github.com/qwwiwi/public-architecture-claude-code) -- Architecture documentation
-- [jarvis-telegram-gateway](https://github.com/qwwiwi/jarvis-telegram-gateway) -- Gateway documentation
+- [public-architecture-claude-code](https://github.com/izmukovvladimir-cyber/public-architecture-claude-code) -- Architecture documentation
+- [jarvis-telegram-gateway](https://github.com/izmukovvladimir-cyber/jarvis-telegram-gateway) -- Gateway documentation
 - [OpenViking](https://github.com/volcengine/OpenViking) -- Semantic memory engine
 - [ruff](https://github.com/astral-sh/ruff) -- Python linter/formatter
